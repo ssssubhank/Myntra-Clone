@@ -26,3 +26,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to adjust the content according to your project's specific features and goals!
+
+## Myntra Clone - Home Page 
+https://github.com/ssssubhank/Myntra-Clone/assets/99115039/ec2b2fb1-eaa6-480b-8f39-ba776d124aec
+
+## Myntra Clone - Bag Features 
+
+https://github.com/ssssubhank/Myntra-Clone/assets/99115039/72f1eaad-46a9-48c9-b2f8-d47d1b2da371
+
+## Myntra Nav-bar Dropdown Menu
+
+<img width="1440" alt="Myntra_Dropdown" src="https://github.com/ssssubhank/Myntra-Clone/assets/99115039/e67e2154-f5ef-4751-99ca-07883f12bf22">
